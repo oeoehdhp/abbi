@@ -14,7 +14,7 @@ API_ID = int(getenv("API_ID", "28712667"))
 API_HASH = getenv("API_HASH","0950550f0a30e1828069f67aa8bf5e74")
 
 ## توكن البوت بنجيبو من هنا @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","")
+BOT_TOKEN = getenv("BOT_TOKEN","8974281795:AAG_KUb8v-FNjmiVZb_bSWQEAVLqOR3Mkvc")
 
 # المونج لو ممعكش سيبو زي مهوه
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority")
@@ -30,7 +30,7 @@ SONG_DOWNLOAD_DURATION = int(
 ) 
 
 # جروب اللي مرفوع فيه البوت والمساعد ادمن 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001645162547"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1004299436056"))
 
 # اسم البوت مينفعش تكتبو مزغرف
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","music")
@@ -135,7 +135,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # جلسه البايروجران تقدر تجبها من هنا@helal_trmix_BOT
-STRING1 = getenv("STRING_SESSION","") 
+STRING1 = getenv("STRING_SESSION","
+AgEoA0MAWYoJh7oip0TYd0LcdmvgFVWLMTr1orQ6AjEFv3Kh8q4Y81mZKYOi49XX7nv7HiDhivscFfJ7wLWLBRa7msuASRiqGn0LBzwMC4UZSrh-UBTFSOwDay5LUoov_s315W-70eoGwAVE-WZm4QMrwfOjOQ9m_Yg6BdEV2LGDAj8cIGefsk2sgAB-mVeYJIyN69jRRkOkuboNCx57DuoD401O6XK0m5I8oOTc9AzsaOuO78LD12HXXrDh1ibqR6St5gq_MkbVAqxrZk5SKo0FgSvqGFiy0if-qXxlyrk7uNcY-2d8sIZB3mjlS_-mDKK0B25GW6CqqgtRc8PyZpmjnu_lEgAAAAHB6ihLAA") 
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
